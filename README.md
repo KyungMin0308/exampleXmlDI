@@ -13,13 +13,13 @@
 ### **3. Packages**
 * **main**
   + 의존성 주입을 위한 예제 코드들
-  + AnimalType: 인터페이스
-  + Cat, Dog: AnimalType을 구현한 클래스
-  + PetOwner: AnimalType 의존성 주입을 위한 클래스
-  + MainApp
+  + **AnimalType** : 인터페이스
+  + **Cat, Dog** : AnimalType을 구현한 클래스
+  + **PetOwner** : AnimalType 의존성 주입을 위한 클래스
+  + **MainApp**
 * **conf**
   + Spring Container를 위한 설정 파일
-  + animal.xml: Bean 생성 및 의존성 주입 설정
+  + **animal.xml** : Bean 생성 및 의존성 주입 설정
 
 
 ### **4. Files**
